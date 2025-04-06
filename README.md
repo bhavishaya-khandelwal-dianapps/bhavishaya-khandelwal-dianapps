@@ -28,8 +28,8 @@
 
 ## 📊 GitHub Stats  
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavishaya&theme=radical" height="160" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavishaya&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavishaya-khandelwal-dianapps&theme=radical" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavishaya-khandelwal-dianapps&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
 </div>
 
 ---
@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Email" />
   </a>
   
-  <a href="https://github.com/bhavishaya" target="_blank">
+  <a href="https://github.com/bhavishaya-khandelwal-dianapps" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="45" alt="GitHub" />
   </a>
   
@@ -61,4 +61,4 @@
 
 ---
 
-## ⭐ "Code with passion, debug with patience, and build for impact!"  
+## ⭐ "Code with passion, debug with patience, and build for impact!"
