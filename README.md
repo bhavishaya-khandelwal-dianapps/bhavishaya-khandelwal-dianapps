@@ -27,10 +27,7 @@
 ---
 
 ## 📊 GitHub Stats  
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavishaya-khandelwal-dianapps&theme=radical" height="160" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavishaya-khandelwal-dianapps&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
-</div>
+<div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavishaya-khandelwal-dianapps&theme=radical" height="160" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api?username=bhavishaya-khandelwal-dianapps&show_icons=true&theme=radical" height="160" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavishaya-khandelwal-dianapps&layout=compact&theme=radical" height="160" alt="Top Languages" /> </div>
 
 ---
 
