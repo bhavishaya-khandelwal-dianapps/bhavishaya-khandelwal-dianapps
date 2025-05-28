@@ -21,7 +21,7 @@
 ---
 
 ## 🎓 Education & Experience  
-- 🎓 **CSE'25** from Govt. Engineering College, Ajmer  
+- 🎓 **CSE'25 (Govt. Engineering College, Ajmer)**  
 - 💼 **Software Engineer Trainee @ DianApps Jaipur** (*Node.js Developer*)  
 
 ---
