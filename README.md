@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="left" style="font-size: 20px;">
-  🚀 <strong>Software Engineer Trainee @ DianApps | Problem Solver | Full Stack Developer</strong>  
+  🚀 <strong>Associate Software Engineer @ DianApps | Problem Solver | Full Stack Developer</strong>  
 </h2>
 
 <h2 align="left" style="font-size: 20px;">
@@ -22,7 +22,7 @@
 
 ## 🎓 Education & Experience  
 - 🎓 **CSE'25 (Govt. Engineering College, Ajmer)**  
-- 💼 **Software Engineer Trainee @ DianApps Jaipur** (*Node.js Developer*)  
+- 💼 **Associate Software Engineer @ DianApps Jaipur** (*Node.js Developer*)  
 
 ---
 
